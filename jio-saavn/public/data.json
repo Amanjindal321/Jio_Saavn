@@ -1,16 +1,257 @@
-[
+
+  
+{
+  "new_albums": [
+    
+     
     {
-      "id": 1,
-      "title": "Rockstar",
-      "artist": "Artist Name",
-      "cover": "https://c.saavncdn.com/274/Rockstar-2011-500x500.jpg"
+      "query": "Soni Soni (From \"Ishq Vishk Rebound\")",
+      "text": "Soni Soni (From \"Ishq Vishk Rebound\")",
+      "year": "2024",
+      "image": "https://c.saavncdn.com/306/Soni-Soni-From-Ishq-Vishk-Rebound-Hindi-2024-20240524164714-150x150.jpg",
+      "albumid": "54581312",
+      "title": "Soni Soni (From \"Ishq Vishk Rebound\")",
+      "Artist": {
+        "music": [
+          { "id": "489732", "name": "Rochak Kohli" },
+          { "id": "888127", "name": "Darshan Raval" },
+          { "id": "672010", "name": "Jonita Gandhi" },
+          { "id": "489732", "name": "Rochak Kohli" }
+        ]
+      },
+      "weight": 500,
+      "language": "hindi"
     },
     {
-      "id": 2,
-      "title": "Rockstar",
-      "artist": "Artist Name",
-      "cover": "https://c.saavncdn.com/274/Rockstar-2011-500x500.jpg"
-    }
+      "query": "Mr. And Mrs. Mahi",
+      "text": "Mr. And Mrs. Mahi",
+      "year": "2024",
+      "image": "https://c.saavncdn.com/619/Mr-And-Mrs-Mahi-Hindi-2024-20240524142048-150x150.jpg",
+      "albumid": "54613181",
+      "title": "Mr. And Mrs. Mahi",
+      "Artist": {
+        "music": [{ "id": "455494", "name": "Various Artists" }]
+      },
+      "weight": 334,
+      "language": "hindi"
+    },
+    {
+      "query": "Ishq Vishk Pyaar Vyaar (From \"Ishq Vishk Rebound\")",
+      "text": "Ishq Vishk Pyaar Vyaar (From \"Ishq Vishk Rebound\")",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/016\/Ishq-Vishk-Pyaar-Vyaar-From-Ishq-Vishk-Rebound-Hindi-2024-20240523134746-150x150.jpg",
+      "albumid": "54501225",
+      "title": "Ishq Vishk Pyaar Vyaar (From \"Ishq Vishk Rebound\")",
+      "Artist": {
+        "music": [{
+          "id": "489732",
+          "name": "Rochak Kohli"
+        }, {
+          "id": "455125",
+          "name": "Sonu Nigam"
+        }, {
+          "id": "745460",
+          "name": "Nikhita Gandhi"
+        }, {
+          "id": "489732",
+          "name": "Rochak Kohli"
+        }]
+      },
+      "weight": 250,
+      "language": "hindi"
+    }, 
     
-]
-  
+    {
+      "query": "Humdum (From \"Savi A Bloody Housewife\")",
+      "text": "Humdum (From \"Savi A Bloody Housewife\")",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/271\/Humdum-From-Savi-Hindi-2024-20240520191009-150x150.jpg",
+      "albumid": "54184998",
+      "title": "Humdum (From \"Savi A Bloody Housewife\")",
+      "Artist": {
+        "music": [{
+          "id": "702452",
+          "name": "Vishal Mishra"
+        }, {
+          "id": "671644",
+          "name": "Raj Shekhar"
+        }, {
+          "id": "671644",
+          "name": "Raj Shekhar"
+        }, {
+          "id": "702452",
+          "name": "Vishal Mishra"
+        }, {
+          "id": "702452",
+          "name": "Vishal Mishra"
+        }, {
+          "id": "671644",
+          "name": "Raj Shekhar"
+        }]
+      },
+      "weight": 167,
+      "language": "hindi"
+    },
+    {
+      "query": "Amar Singh Chamkila",
+      "text": "Amar Singh Chamkila",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/403\/Amar-Singh-Chamkila-Hindi-2024-20240427083437-150x150.jpg",
+      "albumid": "53868451",
+      "title": "Amar Singh Chamkila",
+      "Artist": {
+        "music": [{
+          "id": "456269",
+          "name": "A.R. Rahman"
+        }, {
+          "id": "456259",
+          "name": "Irshad Kamil"
+        }]
+      },
+      "weight": 72,
+      "language": "hindi"
+    }, {
+      "query": "Maai Meri (From \"Main Ladega\")",
+      "text": "Maai Meri (From \"Main Ladega\")",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/826\/Maai-Meri-From-Main-Ladega-Hindi-2024-20240429073439-150x150.jpg",
+      "albumid": "53882274",
+      "title": "Maai Meri (From \"Main Ladega\")",
+      "Artist": {
+        "music": [{
+          "id": "455125",
+          "name": "Sonu Nigam"
+        }, {
+          "id": "8742403",
+          "name": "Mukund Suryawanshi"
+        }, {
+          "id": "18829760",
+          "name": "Vaishnavi Thakur"
+        }]
+      },
+      "weight": 67,
+      "language": "hindi"
+    },
+    {
+      "query": "Yodha",
+      "text": "Yodha",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/276\/Yodha-Hindi-2024-20240328171003-150x150.jpg",
+      "albumid": "52584911",
+      "title": "Yodha",
+      "Artist": {
+        "music": [{
+          "id": "455494",
+          "name": "Various Artists"
+        }, {
+          "id": "455494",
+          "name": "Various Artists"
+        }]
+      },
+      "weight": 50,
+      "language": "hindi"
+    },
+    {
+      "query": "Maidaan",
+      "text": "Maidaan",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/499\/Maidaan-Hindi-2024-20240427083419-150x150.jpg",
+      "albumid": "53868568",
+      "title": "Maidaan",
+      "Artist": {
+        "music": [{
+          "id": "456269",
+          "name": "A.R. Rahman"
+        }, {
+          "id": "473441",
+          "name": "Manoj Muntashir"
+        }]
+      },
+      "weight": 48,
+      "language": "hindi"
+    },
+    {
+      "query": "Bade Miyan Chote Miyan",
+      "text": "Bade Miyan Chote Miyan",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/864\/Bade-Miyan-Chote-Miyan-Hindi-2024-20240328151614-150x150.jpg",
+      "albumid": "52863325",
+      "title": "Bade Miyan Chote Miyan",
+      "Artist": {
+        "music": [{
+          "id": "702452",
+          "name": "Vishal Mishra"
+        }, {
+          "id": "456259",
+          "name": "Irshad Kamil"
+        }]
+      },
+      "weight": 77,
+      "language": "hindi"
+    }, {
+      "query": "Amar Singh Chamkila",
+      "text": "Amar Singh Chamkila",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/403\/Amar-Singh-Chamkila-Hindi-2024-20240427083437-150x150.jpg",
+      "albumid": "53868451",
+      "title": "Amar Singh Chamkila",
+      "Artist": {
+        "music": [{
+          "id": "456269",
+          "name": "A.R. Rahman"
+        }, {
+          "id": "456259",
+          "name": "Irshad Kamil"
+        }]
+      },
+      "weight": 72,
+      "language": "hindi"
+    }, {
+      "query": "Maai Meri (From \"Main Ladega\")",
+      "text": "Maai Meri (From \"Main Ladega\")",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/826\/Maai-Meri-From-Main-Ladega-Hindi-2024-20240429073439-150x150.jpg",
+      "albumid": "53882274",
+      "title": "Maai Meri (From \"Main Ladega\")",
+      "Artist": {
+        "music": [{
+          "id": "455125",
+          "name": "Sonu Nigam"
+        }, {
+          "id": "8742403",
+          "name": "Mukund Suryawanshi"
+        }, {
+          "id": "18829760",
+          "name": "Vaishnavi Thakur"
+        }]
+      },
+      "weight": 67,
+      "language": "hindi"
+    },
+    {
+      "query": "Shaitaan",
+      "text": "Shaitaan",
+      "year": "2024",
+      "image": "https:\/\/c.saavncdn.com\/547\/Shaitaan-Hindi-2024-20240402143108-150x150.jpg",
+      "albumid": "53026838",
+      "title": "Shaitaan",
+      "Artist": {
+        "music": [{
+          "id": "455665",
+          "name": "Kumaar"
+        }, {
+          "id": "457422",
+          "name": "Amit Trivedi"
+        }, {
+          "id": "455665",
+          "name": "Kumaar"
+        }, {
+          "id": "457422",
+          "name": "Amit Trivedi"
+        }]
+      },
+      "weight": 34,
+      "language": "hindi"
+    }
+  ]
+}

@@ -18,7 +18,8 @@ const Player = () => {
   useEffect(() => {
     fetch('/data.json')
       .then((response) => response.json())
-      .then((data) => setSong(data.find((item) => item.id === 1)));
+    //   .then((data) => setSong(data.find((item) => item.id === 1)));
+      .then((data) => setSong(data.new_albums[0]));
   }, []);
 
   if (!song) return <div>Loading...</div>;
@@ -40,12 +41,13 @@ const Player = () => {
         <div className='flex justify-between items-center mb-3 px-3'>
             {/* 1st div */}
             <div className='flex justify-start items-center gap-3 lg:w-[30vw]'>
-                <img src={song.cover} alt={song.title} width={55}
+                <img src={song.image} alt={song.title} width={55}
                 className='rounded-lg' 
                 />
             <div className='hidden lg:block'>
                 <span>{song.title}</span>
-                <p className='text-xs text-gray-500'>{song.artist}</p>
+                {/* <p className='text-xs text-gray-500'>{song.artist}</p> */}
+                {/* <p className='text-xs text-gray-500'>{song.Artist.music.map(artist => artist.name).join(", ") }</p> */}
             </div>
             </div>
 
