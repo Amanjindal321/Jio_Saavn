@@ -18,7 +18,7 @@ const Player = () => {
   useEffect(() => {
     fetch('/data.json')
       .then((response) => response.json())
-    //   .then((data) => setSong(data.find((item) => item.id === 1)));
+      // .then((data) => setSong(data.find((item) => item.id === 1)));
       .then((data) => setSong(data.new_albums[0]));
   }, []);
 

@@ -7,14 +7,21 @@ import AlbumItem from './AlbumItem';
 import Slider from './Slider';
 
 
+
 const MainSection = () => {
   const [albums, setAlbums] = useState([]);
-  const [currentIndex, setCurrentIndex] = useState(0);
+  const [playlists, setPlaylists] = useState([]);
+  // const [currentIndex, setCurrentIndex] = useState(0);
+  const [charts, setCharts] = useState([]);
 
   useEffect(() => {
     fetch('/data.json')
       .then((response) => response.json())
-      .then((data) => setAlbums(data.new_albums));
+      .then(data => {
+        setAlbums(data.new_albums);
+        setPlaylists(data.featured_playlists);
+        setCharts(data.charts);
+      });
   }, []);
 
   // const handlePrevClick = () => {
@@ -35,7 +42,14 @@ const MainSection = () => {
       >
         <MdKeyboardArrowLeft size={20} />
       </button> */}
-      <Slider data={albums} />
+      <section className='my-1'>
+        <h2 className='text-xl px-5 py-3 font-semibold text-gray-700 w-full lg:w-[78vw] mx-auto'>Trending Songs</h2>
+      <Slider data={albums} type={'albums'}/>
+      </section>
+      <section className='my-1'>
+        <h2 className='text-xl px-5 py-3 font-semibold text-gray-700 w-full lg:w-[78vw] mx-auto'>Featured Playlists</h2>
+      <Slider data={playlists} type={'playlists'}/>
+      </section>
       {/* <div className="grid grid-rows-2 grid-flow-col-dense ">
         {albums.slice(currentIndex, currentIndex + 14).map((album, index) => (
           <div key={album.albumid} className="m-2">
@@ -50,7 +64,7 @@ const MainSection = () => {
         <MdKeyboardArrowRight size={20} />
       </button> */}
 
-      
+
     </div>
   );
 };

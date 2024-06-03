@@ -252,6 +252,378 @@
       },
       "weight": 34,
       "language": "hindi"
+    },
+    {
+      "query": "Mr. And Mrs. Mahi",
+      "text": "Mr. And Mrs. Mahi",
+      "year": "2024",
+      "image": "https://c.saavncdn.com/619/Mr-And-Mrs-Mahi-Hindi-2024-20240524142048-150x150.jpg",
+      "albumid": "54613181",
+      "title": "Mr. And Mrs. Mahi",
+      "Artist": {
+        "music": [{ "id": "455494", "name": "Various Artists" }]
+      },
+      "weight": 334,
+      "language": "hindi"
+    },
+    {
+      "query": "Mr. And Mrs. Mahi",
+      "text": "Mr. And Mrs. Mahi",
+      "year": "2024",
+      "image": "https://c.saavncdn.com/619/Mr-And-Mrs-Mahi-Hindi-2024-20240524142048-150x150.jpg",
+      "albumid": "54613181",
+      "title": "Mr. And Mrs. Mahi",
+      "Artist": {
+        "music": [{ "id": "455494", "name": "Various Artists" }]
+      },
+      "weight": 334,
+      "language": "hindi"
     }
-  ]
+  ],
+  "featured_playlists": [{
+		"listid": "5424",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Surprise Me",
+		"data_type": "random",
+		"count": 20,
+		"image": "https:\/\/pli.saavncdn.com\/54\/24\/5424.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/surprise-me\/1ZOczFTRyFw_",
+		"follower_count": "2382",
+		"uid": "phulki_user",
+		"last_updated": 1714772555
+	}, {
+		"listid": "101704478",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Jhakaas Remakes",
+		"data_type": "featured",
+		"count": 30,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/JhakaasRemakes_20240312053740.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/jhakaas-remakes\/7e2LtwVBX6JFo9wdEAzFBA__",
+		"follower_count": "366119",
+		"uid": "phulki_user",
+		"last_updated": 1716374998
+	}, {
+		"listid": "49",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Dumdaar Hits",
+		"data_type": "weekly",
+		"count": 20,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/DumdaarHits_20240515033250.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/dumdaar-hits\/8MT-LQlP35c_",
+		"follower_count": "2440743",
+		"uid": "phulki_user",
+		"last_updated": 1716352276
+	}, {
+		"listid": "946682072",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Most Searched Songs - Hindi",
+		"data_type": "featured",
+		"count": 30,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/MostSearchedSongsHindi_20240521061338.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/most-searched-songs-hindi\/csv-SfcHUmHc1EngHtQQ2g__",
+		"follower_count": "71450",
+		"uid": "phulki_user",
+		"last_updated": 1716761260
+	}, {
+		"listid": "1179504143",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Romantic Hits 2023 - Hindi",
+		"data_type": "featured",
+		"count": 20,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/RomanticHits2023Hindi_20231211051437.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/romantic-hits-2023-hindi\/t7FLT8Wkzn7wwwnaDll-Rw__",
+		"follower_count": "15017",
+		"uid": "phulki_user",
+		"last_updated": 1702242908
+	}, {
+		"listid": "156654587",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Let's Play - Jubin Nautiyal - Hindi",
+		"data_type": "featured",
+		"count": 35,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/Let_sPlayJubinNautiyalHindi_20230809073812.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/lets-play-jubin-nautiyal-hindi\/cyd1elB4lx5ieSJqt9HmOQ__",
+		"follower_count": "92665",
+		"uid": "phulki_user",
+		"last_updated": 1716176588
+	}, {
+		"listid": "107724265",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Punjab Se Bollywood",
+		"data_type": "featured",
+		"count": 24,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/PunjabseBollywood_20240523064932.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/punjab-se-bollywood\/obx07Zza,rHuCJW60TJk1Q__",
+		"follower_count": "340887",
+		"uid": "phulki_user",
+		"last_updated": 1716421784
+	}, {
+		"listid": "158229653",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "2000s Dance Dhamaaka",
+		"data_type": "featured",
+		"count": 31,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/2000sDanceDhamaaka_20240424052718.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/2000s-dance-dhamaaka\/9zxDaumQx1gwkg5tVhI3fw__",
+		"follower_count": "33224",
+		"uid": "phulki_user",
+		"last_updated": 1714783256
+	}, {
+		"listid": "1023629070",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Best Of Romance: Retro - Hindi",
+		"data_type": "featured",
+		"count": 38,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/BestOfRomance-RetroHindi_20230831100836.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/best-of-romance-retro-hindi\/O58xFfZTpydwtkLw7-JlUw__",
+		"follower_count": "35539",
+		"uid": "phulki_user",
+		"last_updated": 1716329870
+	}, {
+		"listid": "158221835",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Best Of Sad Songs - Hindi",
+		"data_type": "featured",
+		"count": 31,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/BestOfSadSongsHindi_20240523064939.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/best-of-sad-songs-hindi\/WjjhR,A3iLLuCJW60TJk1Q__",
+		"follower_count": "41742",
+		"uid": "phulki_user",
+		"last_updated": 1716421787
+	}, {
+		"listid": "1164340768",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Best Of 2010s",
+		"data_type": "featured",
+		"count": 50,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/BestOf2010s_20230831102105.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/best-of-2010s\/gn19HTwL-lfgEhiRleA1SQ__",
+		"follower_count": "48188",
+		"uid": "phulki_user",
+		"last_updated": 1714783400
+	}, {
+		"listid": "107605145",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Best Of Indie - Hindi",
+		"data_type": "featured",
+		"count": 30,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/It_sIndieHindi_20240506083230.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/best-of-indie-hindi\/jnjK2XTv9-3uCJW60TJk1Q__",
+		"follower_count": "7513",
+		"uid": "phulki_user",
+		"last_updated": 1716507139
+	}, {
+		"listid": "1179495885",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Chartbusters 2023 - Hindi",
+		"data_type": "featured",
+		"count": 50,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/Chartbusters2023_20231211051420.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/chartbusters-2023-hindi\/3CCR7D42nHOdFAUQTknEXA__",
+		"follower_count": "51528",
+		"uid": "phulki_user",
+		"last_updated": 1702242881
+	}, {
+		"listid": "153572365",
+		"secondary_subtitle": "",
+		"firstname": "JioSaavn",
+		"listname": "Josh Hi Josh",
+		"data_type": "featured",
+		"count": 30,
+		"image": "https:\/\/c.saavncdn.com\/editorial\/JoshHiJosh_20230701032021.jpg",
+		"sponsored": false,
+		"perma_url": "https:\/\/www.jiosaavn.com\/featured\/josh-hi-josh\/DByzia6eJfXuCJW60TJk1Q__",
+		"follower_count": "91762",
+		"uid": "phulki_user",
+		"last_updated": 1716523254
+	}
+ ],
+ "charts": [{
+  "listid": "110858205",
+  "listname": "Trending Today",
+  "image": "https:\/\/c.saavncdn.com\/editorial\/charts_TrendingToday_134351_20230826113717.jpg",
+  "weight": 1000,
+  "songs": [{
+    "name": "Vishnu Sahasranamam (Version 1)",
+    "image": "http:\/\/c.saavncdn.com\/303\/Vishnu-Sahasranamam-Tamil-2019-20190710112703-150x150.jpg"
+  }, {
+    "name": "Bad Boys",
+    "image": "http:\/\/c.saavncdn.com\/051\/Bheema-Kannada-2023-20230917130726-150x150.jpg"
+  }, {
+    "name": "Mann Mera",
+    "image": "http:\/\/c.saavncdn.com\/423\/Table-No-21-Hindi-2012-20230616151505-150x150.jpg"
+  }, {
+    "name": "Ola Olaala Ala",
+    "image": "http:\/\/c.saavncdn.com\/105\/Orange-Telugu-2006-20210624180302-150x150.jpg"
+  }, {
+    "name": "Teri Aakhya Ka Yo Kajal",
+    "image": "http:\/\/c.saavncdn.com\/515\/Teri-Aakhya-Ka-Yo-Kajal-Haryanvi-2022-20230120165509-150x150.jpg"
+  }],
+  "perma_url": "https:\/\/www.jiosaavn.com\/featured\/trending-today\/I3kvhipIy73uCJW60TJk1Q__"
+}, {
+  "listid": "142311984",
+  "listname": "Romantic Top 40",
+  "image": "https:\/\/c.saavncdn.com\/editorial\/charts_RomanticTop40_167985_20220311173413.jpg",
+  "weight": 500,
+  "songs": [{
+    "name": "Sanam Teri Kasam",
+    "image": "http:\/\/c.saavncdn.com\/820\/Sanam-Teri-Kasam-Hindi-2016-20230430081750-150x150.jpg"
+  }, {
+    "name": "Mera Pyar Tera Pyar",
+    "image": "http:\/\/c.saavncdn.com\/619\/Jalebi-Hindi-2018-20180921123431-150x150.jpg"
+  }, {
+    "name": "Chori Chori Dil Tera",
+    "image": "http:\/\/c.saavncdn.com\/blob\/234\/Phool-Aur-Angaar-Hindi-1993-20220620182612-150x150.jpg"
+  }, {
+    "name": "Ek Raat",
+    "image": "http:\/\/c.saavncdn.com\/080\/Ek-Raat-Hindi-2023-20230414165321-150x150.jpg"
+  }, {
+    "name": "Khuda Jaane",
+    "image": "http:\/\/c.saavncdn.com\/112\/Bachna-Ae-Haseeno-Hindi-2008-20190329150948-150x150.jpg"
+  }],
+  "perma_url": "https:\/\/www.jiosaavn.com\/featured\/romantic-top-40\/m9Qkal5S733ufxkxMEIbIw__"
+}, {
+  "listid": "1167751270",
+  "listname": "Hindi 2000s",
+  "image": "https:\/\/c.saavncdn.com\/editorial\/charts_Hindi2000s_156632_20240408061838.jpg",
+  "weight": 334,
+  "songs": [{
+    "name": "Zara Sa",
+    "image": "http:\/\/c.saavncdn.com\/801\/Jannat-Hindi-2008-20190629135803-150x150.jpg"
+  }, {
+    "name": "Dil Ibaadat",
+    "image": "http:\/\/c.saavncdn.com\/316\/Tum-Mile-Hindi-2009-20190617160526-150x150.jpg"
+  }, {
+    "name": "Chand Sifarish",
+    "image": "http:\/\/c.saavncdn.com\/146\/Fanaa-Hindi-2006-20190329181154-150x150.jpg"
+  }, {
+    "name": "Tune Jo Na Kaha",
+    "image": "http:\/\/c.saavncdn.com\/978\/New-York-Hindi-2009-20190329182537-150x150.jpg"
+  }, {
+    "name": "Tere Liye",
+    "image": "http:\/\/c.saavncdn.com\/313\/Veer-Zaara-Hindi-2004-20190329150841-150x150.jpg"
+  }],
+  "perma_url": "https:\/\/www.jiosaavn.com\/featured\/hindi-2000s\/dSYq41esdPJwtkLw7-JlUw__"
+}, {
+  "listid": "1167751266",
+  "listname": "Hindi 1990s",
+  "image": "https:\/\/c.saavncdn.com\/editorial\/charts_Hindi1990s_136920_20240408061858.jpg",
+  "weight": 250,
+  "songs": [{
+    "name": "Mera Dil Bhi Kitna Pagal Hai",
+    "image": "http:\/\/c.saavncdn.com\/blob\/461\/Saajan-Hindi-1991-20220616044407-150x150.jpg"
+  }, {
+    "name": "Dil To Pagal Hai",
+    "image": "http:\/\/c.saavncdn.com\/410\/Dil-To-Pagal-Hai-Hindi-1997-20190329145756-150x150.jpg"
+  }, {
+    "name": "Chanda Sitare",
+    "image": "http:\/\/c.saavncdn.com\/364\/Naseeb-Hindi-1998-150x150.jpg"
+  }, {
+    "name": "Tip Tip Barsa Paani",
+    "image": "http:\/\/c.saavncdn.com\/041\/Mohra-Hindi-1994-20210226141759-150x150.jpg"
+  }, {
+    "name": "Chura Ke Dil Mera",
+    "image": "http:\/\/c.saavncdn.com\/474\/Main-Khiladi-Tu-Anari-Hindi-1994-20210407074948-150x150.jpg"
+  }],
+  "perma_url": "https:\/\/www.jiosaavn.com\/featured\/hindi-1990s\/dSYq41esdPJAI5VmDfZSSg__"
+} ],
+"genres": [{
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Party.jpg",
+  "title": "Party",
+  "tags": "Party",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Workout.jpg",
+  "title": "Workout",
+  "tags": "Workout",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Bhangra.jpg",
+  "title": "Bhangra",
+  "tags": "Bhangra",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Chill.jpg",
+  "title": "Chill",
+  "tags": "Soft",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Classics.jpg",
+  "title": "Classics",
+  "tags": "Oldies",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Devotional.jpg",
+  "title": "Devotional",
+  "tags": "Devotional",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Garba.jpg",
+  "title": "Garba",
+  "tags": " Garba",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Ghazals.jpg",
+  "title": "Ghazals",
+  "tags": " Ghazal ",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Instrumental.jpg",
+  "title": "Instrumental",
+  "tags": "Instrumental",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Live.jpg",
+  "title": "Live",
+  "tags": "Live ",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Pop.jpg",
+  "title": "Pop",
+  "tags": "Pop",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Remixes.jpg",
+  "title": "Remixes",
+  "tags": "Remixes",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Rock.jpg",
+  "title": "Rock",
+  "tags": "Rock ",
+  "about": ""
+}, {
+  "image": "https:\/\/c.saavncdn.com\/editorial\/genrecharts_Sufi.jpg",
+  "title": "Sufi",
+  "tags": "Sufi",
+  "about": ""
+}]
+
 }
+

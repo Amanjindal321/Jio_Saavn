@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className='flex flex-col lg:flex-row justify-between items-center mx-auto lg:mx-0 '>
             <div className='flex justify-between items-center gap-2 mr-8'>
                 <img src='/savan-logo.png' alt='logo' width={37} />
-                <Link href="/" className="font-extrabold text-lg">
+                <Link to="/" className="font-extrabold text-lg">
                     Jio Saavn
                 </Link>
             </div>
