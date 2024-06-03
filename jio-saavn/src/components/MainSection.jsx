@@ -24,15 +24,7 @@ const MainSection = () => {
       });
   }, []);
 
-  // const handlePrevClick = () => {
-  //   setCurrentIndex((prevIndex) => (prevIndex === 0 ? albums.length - 1 : prevIndex - 1));
-  // };
-
-  // const handleNextClick = () => {
-  //   setCurrentIndex((prevIndex) => (prevIndex === albums.length - 1 ? 0 : prevIndex + 1));
-  // };
-
-  // if (albums.length === 0) return <div>Loading...</div>;
+ 
 
   return (
     <div className="relative flex flex-col items-center justify-center w-full overflow-hidden mt-20 pb-[100px] ">
