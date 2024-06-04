@@ -46,28 +46,3 @@ export default AlbumDetails;
 
 
 
-// import React, { useEffect } from 'react';
-// import { useParams } from 'react-router-dom';
-// import Navbar from '../components/Navbar';
-// import Player from '../components/Player';
-
-// import axios from 'axios';
-
-// const AlbumDetails = (details) => {
-//   const { id } = useParams(); // Get the albumid from the URL
- 
-//   return (
-//     <>
-//     {/* <Navbar /> */}
-    
-//       <div>
-//         Details for ID: {id}
-        
-//       </div>
-   
-//     {/* <Player /> */}
-//     </>
-//   );
-// };
-
-// export default AlbumDetails;
