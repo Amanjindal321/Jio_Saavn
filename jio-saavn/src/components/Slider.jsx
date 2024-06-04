@@ -26,6 +26,7 @@ const Slider = ({ data, type }) => {
                         type === 'albums' ? 
                         <AlbumItem key={item.albumid} song={item} /> : 
                         <PlaylistItem key={item.listid} playlist={item} />
+                        
                     ))
                 }
             </div>
