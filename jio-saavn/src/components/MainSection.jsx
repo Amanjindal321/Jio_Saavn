@@ -33,8 +33,6 @@ const MainSection = () => {
     setSelectedChart(chart);
   };
 
- 
-
 
   return (
     <div className="relative flex flex-col items-center justify-center w-full overflow-hidden mt-20 pb-[100px] ">
@@ -50,7 +48,7 @@ const MainSection = () => {
         <Slider data={charts} type={'chart'} />
       </section> */}
       <section className='my-1'>
-        <h2 className='text-xl px-5 py-3 font-semibold text-gray-700 w-full lg:w-[78vw] mx-auto'>Charts</h2>
+        <h2 className='text-xl px-5 py-3 font-semibold text-gray-700 w-full lg:w-[78vw] mx-auto'>Top Charts</h2>
         <div className="w-full lg:w-[78vw] mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {charts.map(chart => (
             <div key={chart.listid} className="flex flex-col items-center cursor-pointer" onClick={() => handleChartClick(chart)}>
