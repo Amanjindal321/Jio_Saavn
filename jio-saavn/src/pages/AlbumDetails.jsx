@@ -4,6 +4,8 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Player from '../components/Player';
+import { FaPlay, FaInfoCircle } from 'react-icons/fa';
+
 
 const AlbumDetails = () => {
   const { id } = useParams(); // Get the id from the URL
@@ -31,19 +33,20 @@ const AlbumDetails = () => {
     <>
     <Navbar />
    <div className='p-28 mt-11 flex items-center justify-center bg-blue-200'>
-     <img src={details.image} alt={details.title || details.listname} className="w-64 h-64 mr-8 rounded-lg shadow-lg" />
-    <div>
-      <h1 className='text-4xl font-bold mb-9'>Best of All Time</h1>
+     <img src={details.image} alt={details.title || details.listname} className="w-64 h-64 mr-8 rounded-lg shadow-lg transform transition duration-500 hover:scale-105" />
+    <div className='text-center'>
+      <h1 className='text-4xl font-bold mb-9 text-indigo animate-bounce'>Best of All Time</h1>
       {/* <h1 className="text-2xl font-bold mb-4">Details for ID: {id}</h1> */}
-      <p><strong>  Count of Songs:</strong> {details.count}</p>
+      <p className='text-xl'><strong>  Count of Songs:</strong> {details.count}</p>
       <button 
         onClick={openPermaUrl}
-        className="inline-block px-6 py-4 mt-3 bg-blue-600 text-white font-semibold text-sm rounded-lg shadow-md hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
+        className="inline-flex items-center px-6 py-4 mt-3 bg-blue-600 text-white font-semibold text-sm rounded-lg shadow-md hover:bg-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75 transition duration-500 hover:scale-105"
       >
-        Click For Album Songs
+        <FaPlay className="mr-2" />Click For Album Songs
       </button>
     </div>
    </div>
+
     <Player />
    </>
   );

@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react'
-
 import {BiRepeat} from 'react-icons/bi'
 import {PiShuffleBold} from 'react-icons/pi'
 import {IoMdSkipBackward, IoMdSkipForward} from 'react-icons/io'
