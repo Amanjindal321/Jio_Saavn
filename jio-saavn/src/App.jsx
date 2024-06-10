@@ -1,12 +1,12 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import AlbumDetails from './pages/AlbumDetails'
 import ChartItem from './components/ChartItem'
 
 
-
 const App = () => {
+
   return (
     <BrowserRouter>
       <Routes>
@@ -17,6 +17,7 @@ const App = () => {
         
       </Routes>
     </BrowserRouter>
+
   )
 }
 
