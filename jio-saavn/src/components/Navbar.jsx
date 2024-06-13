@@ -1,10 +1,17 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { MdKeyboardArrowDown } from 'react-icons/md';
 
 const Navbar = ({ onSearch, searchResults }) => {
   const [searchTerm, setSearchTerm] = useState('');
+  const [loggedInUser, setLoggedInUser] = useState(null);  /////////
   const navigate = useNavigate();
+
+////////////////////
+  useEffect(() => {
+    const user = JSON.parse(localStorage.getItem('loggedInUser'));
+    setLoggedInUser(user);
+  }, []);
 
   const handleInputChange = (e) => {
     const value = e.target.value;
@@ -23,6 +30,13 @@ const Navbar = ({ onSearch, searchResults }) => {
     } else {
       alert('No exact match found or multiple matches found');
     }
+  };
+
+/////////////
+  const handleLogout = () => {
+    localStorage.removeItem('loggedInUser');
+    setLoggedInUser(null);
+    navigate('/');
   };
 
   return (
@@ -70,10 +84,19 @@ const Navbar = ({ onSearch, searchResults }) => {
           </div>
           <MdKeyboardArrowDown className='text-xl text-gray-500 mt-2' />
         </div>
+        {loggedInUser ? (
+          <div className='flex text-[15px] gap-5 text-gray-600 font-semibold'>
+            <span>Welcome, {loggedInUser.name}</span>
+            <button onClick={handleLogout} className='text-red-600'>Logout</button>
+          </div>
+        ) : (
         <div className='flex text-[15px] gap-5 text-gray-600 font-semibold'>
-          <li className='list-none'>Log In</li>
-          <li className='list-none'>Sign In</li>
+          {/* <li className='list-none'>Log In</li>
+          <li className='list-none'>Sign In</li> */}
+          <Link to='/login'>Log In</Link>
+          <Link to='/register'>Sign In</Link>
         </div>
+        )}
       </div>
     </nav>
   );

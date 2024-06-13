@@ -5,6 +5,8 @@ import AlbumDetails from './pages/AlbumDetails';
 import ChartItem from './components/ChartItem';
 import Navbar from './components/Navbar';
 import MainSection from './components/MainSection';
+import Login from './pages/Login';
+import Register from './pages/Register';
 
 const App = () => {
   const [searchQuery, setSearchQuery] = useState('');
@@ -26,6 +28,8 @@ const App = () => {
         <Route path='/albums/:id' element={<AlbumDetails />} />
         <Route path='/playlists/:id' element={<AlbumDetails />} />
         <Route path='/chart/:id' element={<ChartItem />} />
+        <Route path='/login' element={<Login />} />
+        <Route path='/register' element={<Register />} />
       </Routes>
     </BrowserRouter>
   );
